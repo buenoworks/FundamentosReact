@@ -1,0 +1,17 @@
+table {
+    width: 100%;
+    border: 1px solid #ccc;
+}
+
+table th {
+    background-color: #666;
+    color: #fff;
+}
+
+table td {
+    border: 1px solid #ccc;
+}
+
+table .Par {
+    background-color: #ccc;
+}
